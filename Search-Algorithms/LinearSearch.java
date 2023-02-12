@@ -32,10 +32,3 @@ public class LinearSearch {
             System.out.println("Targeted element is absent in the array");
     }
 }
-
-
-
-/* Linear Search is a searching algorithm used to search the targeted element.
- * It searches the array from either end of the array and moves to the other end unless you get the targeted element.
- * The time complexity of Linear Search is O(n) and space complexity is O(1)
-*/
